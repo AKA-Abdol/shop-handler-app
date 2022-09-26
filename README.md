@@ -21,4 +21,4 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ## Learn More
 
 - This is a progressing app built for personal and resume-wise 
-- it's all written with next.js and redux
+- It's all written with next.js and redux
